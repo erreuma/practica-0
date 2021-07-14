@@ -1,0 +1,75 @@
+body{
+    background-color: rgba(68, 204, 209, 0.836);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px 20px;
+    
+}
+
+
+h1{
+   text-align:center;
+    font-family: 'Crimson Text', serif;
+    color: rgb(235, 226, 226);
+    margin: 20;
+}
+
+p{
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight: 600;
+    margin: 25px;
+    text-decoration: dodgerblue;
+    text-transform: capitalize;
+}
+
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-style: oblique;
+    list-style-type: circle;
+    padding: 5px 10px;
+    margin: 0;
+}
+
+
+.block1{
+    border-radius: 5%;
+    text-align:center ;
+    background-color: crimson;
+    color: aqua;
+   
+    padding: 20px;
+    width: 40%;
+    box-shadow: 1px 1px 3px crimson
+  
+}
+
+#tarantino_img{
+    border-radius: 50%;
+    width: 200px; 
+    margin-top: 50px; 
+    box-shadow: 0 0 10px #dc143c;
+    opacity: 60%;
+}
+
+.block2{
+    
+    background-color: rgba(235, 121, 14, 0.767);
+    border-radius: 5%;
+    box-shadow: 0 0 2px rgb(104, 102, 102);
+    color: rgb(3, 36, 36);
+    text-align: center;
+    padding: 30px;
+    width: 40%;
+    
+  }
+
+  
+#cortazar_img{
+    border-radius: 50%;
+    margin-top: 30px;
+    width: 100px;
+    box-shadow: 0 0 10px rgb(104, 102, 102);
+    opacity: 50%;
+   
+}
